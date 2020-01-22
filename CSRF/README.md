@@ -56,6 +56,7 @@ xhr.send('{"role":admin}');
 </script>
 ```
 **OR**
+```
 `<script>
 var xhr = new XMLHttpRequest();
 xhr.open("POST", "http://www.xyz.com/api/setrole");
