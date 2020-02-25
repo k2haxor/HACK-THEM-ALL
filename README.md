@@ -1,5 +1,5 @@
 # HACK THEM ALL
-A repository to learn basics of Web-Application Security and Penetration testing/CTF/Bug bounty. You will learn some basic exploits and bypass.
+Hack like a pro.
 
-Ping me at: farhankhursheed2018@gmail.com
 
+ping me at: farhankhursheed2018@gmail.com
