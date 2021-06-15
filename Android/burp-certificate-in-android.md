@@ -1,4 +1,6 @@
-# Export your Burp Certificate
+# Add Burp Certificate in Android Device
+
+## Export your Burp Certificate
 * Proxy > Options > CA Certificate > Export in DER format
 
 * Convert it to PEM
